@@ -1,0 +1,12 @@
+<html>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+<tittli>MY FIRST WEBPAGE!<tittle>
+<link href="css/styles.css" rel="stylesheet" type="text/css">
+h1{colour: blue; text-align: center}
+</head>
+<body>
+<body>
+</html>
